@@ -13,6 +13,7 @@ Packages:
 
 * `file-icons`: Assign file extension icons and colours for improved visual grepping
 * `minimap`: A preview of the full source code
+* `project-dropdown`: Atom package for project management, enables a dropdown above the file tree that switches between the various project directories.
 
 Themes:
 
@@ -47,3 +48,6 @@ Themes:
 * TreeView+`delete`: Delete file
 * TreeView+`right`: Expand folder
 * TreeView+`left`: Collapse folder
+* `Ctrl+k`,`left`/`right`: Split horizontally
+* `Ctrl+k`,`left`/`right`: Split vertically
+* `Ctrl+-`/`Ctrl++`/`Ctrl-0`: Zoom in/out/reset
