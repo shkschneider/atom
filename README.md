@@ -22,10 +22,13 @@ Themes:
 ### Keybindings
 
 * `Ctrl+Shift+p`
-* `Ctrl+t`: Open file
+* `Ctrl+o`: Open file
+* `Ctrl+Shift+o`: Open folder
+* `Ctrl+Shift+t`: Re-open last item
 * `Ctrl+w`: Close tab
 * `Ctrl+\`: Show/hide tree view
 * `Ctrl+,`: Preferences
+* `Ctrl+t`/`Ctrl+p`: Find file
 * `Ctrl+r`: Find declaration in scope
 * `Ctrl+g`: Goto line
 * Selection+`Ctrl+d`: Refactor
@@ -36,6 +39,7 @@ Themes:
 * `Ctrl+b`: Switch tab
 * `Ctrl+]`: Indent right
 * `Ctrl+[`: Indent left
+* `Ctrl+Shift+d`: Duplicate line
 * `Ctrl+Shift+k`: Delete line
 * `Alt+\`: Focus tree view
 * TreeView+`a`: New file
